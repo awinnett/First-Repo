@@ -10,3 +10,5 @@ goldfish = ["blue", "gold", "red"]
 for color in goldfish:
     if color == "gold":
         print "goldfish are gold"
+    else:
+        print "goldfish are poorly named"
