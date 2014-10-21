@@ -8,4 +8,4 @@ Created on Tue Oct 21 16:40:28 2014
 #test test
 dog = "good"
 if dog is "very_good":
-    print "good dog"
+    print "good very very good dog"
